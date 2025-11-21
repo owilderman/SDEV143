@@ -1,0 +1,17 @@
+1) To keep only "-Sleep"
+	1. Open File
+	2. Delete text between conflict markers
+	3. Remove all markers
+	4. Save File
+	5. Stage and commit
+2) To keep only "-Gym"
+	1. Open File
+	2. Select all text except the remote version
+	3. Remove all markers
+	4. Save File
+	5. Stage and commit
+3) To keep both (-Sleep and -Gym)
+	1. Open File
+	2. Remove all markers and manually include both lines
+	3. Save File
+	5. Stage and commit.
