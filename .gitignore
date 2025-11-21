@@ -1,0 +1,4 @@
+*.tmp # all .tmp files
+.DS_Store 
+*.log # all .log files
+temp/ # all temp folders
